@@ -11,4 +11,7 @@ It does not contain instruction how to write unit tests!
 
 
 
-# Aplication scree
+# Aplication screenshot
+
+
+![](screenshot.png)
