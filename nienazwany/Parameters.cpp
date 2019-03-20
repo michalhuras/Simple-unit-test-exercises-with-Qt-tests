@@ -3,7 +3,6 @@
 Parameters::Parameters() :
 	ExponentiationBase(2)
 {
-
 }
 
 int Parameters::CountExponentionBase()

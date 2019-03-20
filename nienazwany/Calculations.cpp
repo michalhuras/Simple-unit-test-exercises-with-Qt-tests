@@ -3,7 +3,6 @@
 TestedClass::TestedClass() :
 		mParameters(new Parameters())
 {
-
 }
 
 int TestedClass::Addition(int aAddendA, int aAddendb)
