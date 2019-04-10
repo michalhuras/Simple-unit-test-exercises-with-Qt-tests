@@ -21,7 +21,7 @@ private slots:
 
 private:
 	Ui::MainWindow *ui;
-	TestedClass *Object;
+	Calculations *Object;
 };
 
 #endif // MAINWINDOW_HPP

@@ -4,7 +4,7 @@
 MainWindow::MainWindow(QWidget *parent) :
 	QMainWindow(parent),
 	ui(new Ui::MainWindow),
-	Object(new TestedClass)
+	Object(new Calculations)
 {
 	ui->setupUi(this);
 

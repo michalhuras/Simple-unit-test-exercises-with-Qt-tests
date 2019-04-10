@@ -4,10 +4,10 @@
 #include <QString>
 #include "Parameters.hpp"
 
-class TestedClass
+class Calculations
 {
 public:
-	TestedClass();
+	Calculations();
 
 	int Addition(int aAddendA, int aAddendb);
 	unsigned AdditionWithNotNegativeResalt(int aAddendA, int aAddendb);
